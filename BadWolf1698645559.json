@@ -42,7 +42,19 @@
   "cantriplevel":"",
   "ritualtype":"",
   "rituals":"",
-  "spells":["","","","","","","","","","",""],
+  "spells":[
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
   "constant":"",
   "minprof":
   {
@@ -52,12 +64,13 @@
   },
   "strength":
   {
-    "value":3
-    ,"benchmark":"moderate",
+    "value":3,
+    "benchmark":"moderate",
     "note":""
   },
   "dexterity":
-  {"value":3,
+  {
+    "value":3,
     "benchmark":"moderate",
     "note":""
   },
@@ -67,7 +80,8 @@
     "note":""
   },
   "intelligence":
-  {"value":5,
+  {
+    "value":5,
     "benchmark":"extreme",
     "note":""
   },
@@ -96,8 +110,8 @@
   },
   "arcana":
   {
-    "value":""
-    ,"benchmark":"high",
+    "value":"",
+    "benchmark":"high",
     "note":""
   },
   "athletics":
@@ -114,7 +128,8 @@
   },
   "deception":
   {
-    "value":7,"benchmark":"moderate",
+    "value":7,
+    "benchmark":"moderate",
     "note":""
   },
   "diplomacy":
@@ -130,7 +145,8 @@
     "note":""
   },
   "medicine":
-  {"value":"",
+  {
+    "value":"",
     "benchmark":"moderate",
     "note":""
   },
@@ -215,7 +231,8 @@
     "note":""
   },
   "reflex":
-  {"value":8,
+  {
+    "value":8,
     "benchmark":"moderate",
     "note":""
   },
@@ -245,8 +262,7 @@
   },
   "roadmap":"skill paragon (int)",
   "info":"",
-  "strikes":
-  [
+  "strikes":[
     {
       "id":"_qcq3s6tsqg",
       "name":"Katana",
