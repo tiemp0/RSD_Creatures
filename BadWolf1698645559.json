@@ -247,7 +247,8 @@
       "id":"_7muukvis8f",
       "name":"Flintlock Pistol",
       "traits":"Concussive, Fatal d8, Uncommon",
-      "attack":9,"damage":"1d6+3 bludgeoning",
+      "attack":9,
+      "damage":"1d6+3 bludgeoning",
       "type":"Ranged"
     }
   ]
