@@ -21,14 +21,12 @@
   "adjust":0,
   "description":"",
   "items":"Katana. Leather Armor, Dagger, Flintlock pistol",
-  "spellattack":
-  {
+  "spellattack":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "spelldc":
-  {
+  "spelldc":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
@@ -56,206 +54,172 @@
     ""
   ],
   "constant":"",
-  "minprof":
-  {
+  "minprof":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "strength":
-  {
+  "strength":  {
     "value":3,
     "benchmark":"moderate",
     "note":""
   },
-  "dexterity":
-  {
+  "dexterity":  {
     "value":3,
     "benchmark":"moderate",
     "note":""
   },
-  "constitution":
-  {
+  "constitution":  {
     "value":1,"benchmark":"low",
     "note":""
   },
-  "intelligence":
-  {
+  "intelligence":  {
     "value":5,
     "benchmark":"extreme",
     "note":""
   },
-  "wisdom":
-  {
+  "wisdom":  {
     "value":3,
     "benchmark":"moderate",
     "note":""
   },
-  "charisma":
-  {
+  "charisma":  {
     "value":1,"benchmark":"low",
     "note":""
   },
-  "perception":
-  {
+  "perception":  {
     "value":11,
     "benchmark":"high",
     "note":""
   },
-  "acrobatics":
-  {
+  "acrobatics":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "arcana":
-  {
+  "arcana":  {
     "value":"",
     "benchmark":"high",
     "note":""
   },
-  "athletics":
-  {
+  "athletics":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "crafting":
-  {
+  "crafting":  {
     "value":11,
     "benchmark":"extreme",
     "note":""
   },
-  "deception":
-  {
+  "deception":  {
     "value":7,
     "benchmark":"moderate",
     "note":""
   },
-  "diplomacy":
-  {
+  "diplomacy":  {
     "value":7,
     "benchmark":"moderate",
     "note":""
   },
-  "intimidation":
-  {
+  "intimidation":  {
     "value":7,
     "benchmark":"moderate",
     "note":""
   },
-  "medicine":
-  {
+  "medicine":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "nature":
-  {
+  "nature":  {
     "value":5,
     "benchmark":"low",
     "note":""
   },
-  "occultism":
-  {
+  "occultism":  {
     "value":"",
     "benchmark":"high",
     "note":""
   },
-  "performance":
-  {
+  "performance":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "religion":
-  {
+  "religion":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "society":
-  {
+  "society":  {
     "value":11,
     "benchmark":"extreme",
     "note":""
   },
-  "stealth":
-  {
+  "stealth":  {
     "value":7,
     "benchmark":"moderate",
     "note":""
   },
-  "survival":
-  {
+  "survival":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "thievery":
-  {
+  "thievery":  {
     "value":11,
     "benchmark":"extreme",
     "note":""
   },
-  "lore":
-  {
+  "lore":  {
     "value":7,
     "benchmark":"moderate",
     "note":"",
     "name":"lore Underworld"
   },
-  "lorealt":
-  {
+  "lorealt":  {
     "value":"",
     "benchmark":"moderate",
     "note":"",
     "name":"lore"
   },
-  "ac":
-  {
+  "ac":  {
     "value":17,
     "benchmark":"moderate",
     "note":""
   },
-  "hp":
-  {
+  "hp":  {
     "value":30,
     "benchmark":"moderate",
     "note":""
   },
-  "fortitude":
-  {
+  "fortitude":  {
     "value":5,
     "benchmark":"low",
     "note":""
   },
-  "reflex":
-  {
+  "reflex":  {
     "value":8,
     "benchmark":"moderate",
     "note":""
   },
-  "will":
-  {
+  "will":  {
     "value":11,
     "benchmark":"high",
     "note":""
   },
-  "resistance":
-  {
+  "resistance":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "weakness":
-  {
+  "weakness":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
   },
-  "immunity":
-  {
+  "immunity":  {
     "value":"",
     "benchmark":"moderate",
     "note":""
