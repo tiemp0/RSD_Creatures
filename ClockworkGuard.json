@@ -1,1 +1,287 @@
+{
+  "id": "e58f4eda14b524f2bccf2cbce",
+  "name": "Clockwork Guard",
+  "traits": "Clockwork, mindless",
+  "tags": [],
+  "level": 2,
+  "specials": [
+    {
+      "id": "_iizx7crv98",
+      "name": "Attack of Opportunity",
+      "traits": "",
+      "range": "",
+      "actions": "reaction",
+      "type": "defense",
+      "description": ""
+    },
+    {
+      "id": "_1weppl90r60",
+      "name": "Raise a Shield",
+      "traits": "",
+      "range": "",
+      "actions": "one",
+      "type": "defense",
+      "description": "The serving platter has the same statistics as a buckler, but requires a hand to hold."
+    },
+    {
+      "id": "_6ss4b1lyr7",
+      "name": "Shield Block",
+      "traits": "",
+      "range": "",
+      "actions": "reaction",
+      "type": "defense",
+      "description": ""
+    }
+  ],
+  "morespells": [],
+  "alignment": "n",
+  "size": "medium",
+  "type": "construct",
+  "adjust": 0,
+  "description": "",
+  "items": "",
+  "spellattack": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "spelldc": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "savenote": "",
+  "creature": "",
+  "speed": 25,
+  "imgurl": "",
+  "spelltype": "",
+  "focuspoints": 0,
+  "cantriplevel": "",
+  "ritualtype": "",
+  "rituals": "",
+  "spells": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "constant": "",
+  "minprof": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "strength": {
+    "value": 4,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "dexterity": {
+    "value": 3,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "constitution": {
+    "value": 3,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intelligence": {
+    "value": 1,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "wisdom": {
+    "value": 2,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "charisma": {
+    "value": 1,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "perception": {
+    "value": 8,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "acrobatics": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "arcana": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "athletics": {
+    "value": 8,
+    "benchmark": "high",
+    "note": ""
+  },
+  "crafting": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "deception": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "diplomacy": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intimidation": {
+    "value": 8,
+    "benchmark": "high",
+    "note": ""
+  },
+  "medicine": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "nature": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "occultism": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "performance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "religion": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "society": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "stealth": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "survival": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "thievery": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "lore": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "lorealt": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "ac": {
+    "value": 21,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "hp": {
+    "value": 30,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "fortitude": {
+    "value": 11,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "reflex": {
+    "value": 8,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "will": {
+    "value": 8,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "resistance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "weakness": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "immunity": {
+    "value": "bleed, death effects, diseased, doomed, drained, fatigued, healing, necromancy, nonlethal attacks, paralyzed, poison, sickened, unconscious;, mind",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "roadmap": "",
+  "info": "",
+  "strikes": [
+    {
+      "id": "_2468qkd0ohc",
+      "name": "Clockwork sword",
+      "traits": "Critical Fusion, Combination, Uncommon",
+      "attack": 13,
+      "damage": "1d10+4 slashing",
+      "type": "Melee"
+    },
+    {
+      "id": "_1ljxqwjke4b",
+      "name": "Clockwork Sword",
+      "traits": "Critical Fusion, Combination, Uncommon",
+      "attack": 11,
+      "damage": "1d10+4 piercing",
+      "type": "Ranged"
+    }
+  ],
+  "hints": [
+    "perception",
+    "strength",
+    "dexterity",
+    "constitution",
+    "intelligence",
+    "wisdom",
+    "charisma",
+    "ac",
+    "fortitude",
+    "reflex",
+    "will",
+    "hp"
+  ],
+  "meta": {
+    "public": 1,
+    "url": "sXwq3xP2"
+  }
+}
 
